@@ -14,7 +14,7 @@ public class PedidoService {
 
     @Transactional(readOnly = true)
     public Pedido findById(Integer id) {
-        return repository.findById(id).orElseThrow(() -> new ObjectNotFoundException("Id não encontrado" +
+        return repository.findById(id).orElseThrow(() -> new ObjectNotFoundException("Id não encontrado: " +
                 + id));
     }
 
