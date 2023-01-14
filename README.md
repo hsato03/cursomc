@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Projeto final do curso de modelagem de dados com UML, que consiste na implementação de um modelo de domínio complexo utilizando Spring e Hibernate.
+Projeto final do curso de modelagem de dados com UML da [Udemy](https://www.udemy.com/course/uml-diagrama-de-classes/ "Udemy"), que consiste na implementação de um modelo de domínio complexo utilizando Spring e Hibernate.
 
 ## Modelo conceitual
 
